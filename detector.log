@@ -1,0 +1,56 @@
+2024-12-30 16:12:49,261 - INFO - URL Phishing Detector initialized
+2024-12-30 16:12:49,868 - INFO - Model loaded from random_forest_phishing_detector.pkl
+2024-12-30 16:12:49,876 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-30 16:12:49,876 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-30 16:12:49,882 - INFO -  * Restarting with watchdog (fsevents)
+2024-12-30 16:12:52,510 - INFO - URL Phishing Detector initialized
+2024-12-30 16:12:52,558 - INFO - Model loaded from random_forest_phishing_detector.pkl
+2024-12-30 16:12:52,560 - WARNING -  * Debugger is active!
+2024-12-30 16:12:52,594 - INFO -  * Debugger PIN: 919-919-430
+2024-12-30 16:12:58,368 - INFO - Making prediction for URL: http://att-103731-107123.weeblysite.com/
+2024-12-30 16:12:58,368 - INFO - Extracting features from URL: http://att-103731-107123.weeblysite.com/
+2024-12-30 16:12:59,669 - INFO - 127.0.0.1 - - [30/Dec/2024 16:12:59] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2024-12-30 16:13:16,874 - INFO - Making prediction for URL: http://att-103731-107123.weeblysite.com/
+2024-12-30 16:13:16,874 - INFO - Extracting features from URL: http://att-103731-107123.weeblysite.com/
+2024-12-30 16:13:18,200 - INFO - 127.0.0.1 - - [30/Dec/2024 16:13:18] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2024-12-30 16:45:03,169 - INFO - Making prediction for URL: http://att-103731-107123.weeblysite.com/
+2024-12-30 16:45:03,170 - INFO - Extracting features from URL: http://att-103731-107123.weeblysite.com/
+2024-12-30 16:45:04,633 - INFO - 127.0.0.1 - - [30/Dec/2024 16:45:04] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2024-12-31 12:22:45,989 - INFO - URL Phishing Detector initialized
+2024-12-31 12:22:46,043 - INFO - Model loaded from random_forest_phishing_detector.pkl
+2024-12-31 12:22:46,048 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-31 12:22:46,048 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-31 12:22:46,055 - INFO -  * Restarting with watchdog (fsevents)
+2024-12-31 12:22:48,458 - INFO - URL Phishing Detector initialized
+2024-12-31 12:22:48,486 - INFO - Model loaded from random_forest_phishing_detector.pkl
+2024-12-31 12:22:48,489 - WARNING -  * Debugger is active!
+2024-12-31 12:22:48,507 - INFO -  * Debugger PIN: 919-919-430
+2024-12-31 12:38:35,429 - INFO - 127.0.0.1 - - [31/Dec/2024 12:38:35] "GET / HTTP/1.1" 200 -
+2024-12-31 12:38:43,616 - INFO - Making prediction for URL: https://google.com
+2024-12-31 12:38:43,616 - INFO - Extracting features from URL: https://google.com
+2024-12-31 12:38:44,706 - INFO - 127.0.0.1 - - [31/Dec/2024 12:38:44] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2024-12-31 12:39:16,284 - INFO - 127.0.0.1 - - [31/Dec/2024 12:39:16] "[31m[1mGET /analyze HTTP/1.1[0m" 405 -
+2024-12-31 12:42:55,038 - INFO - Making prediction for URL: https://google.com
+2024-12-31 12:42:55,042 - INFO - Extracting features from URL: https://google.com
+2024-12-31 12:42:56,108 - INFO - 127.0.0.1 - - [31/Dec/2024 12:42:56] "[35m[1mPOST /analyze HTTP/1.1[0m" 500 -
+2024-12-31 12:49:32,864 - INFO - Model loaded from random_forest_phishing_detector.pkl
+2024-12-31 12:49:32,875 - INFO - [31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+2024-12-31 12:49:32,875 - INFO - [33mPress CTRL+C to quit[0m
+2024-12-31 12:49:32,881 - INFO -  * Restarting with watchdog (fsevents)
+2024-12-31 12:49:35,068 - INFO - Model loaded from random_forest_phishing_detector.pkl
+2024-12-31 12:49:35,070 - WARNING -  * Debugger is active!
+2024-12-31 12:49:35,087 - INFO -  * Debugger PIN: 919-919-430
+2024-12-31 12:49:44,880 - INFO - 127.0.0.1 - - [31/Dec/2024 12:49:44] "GET / HTTP/1.1" 200 -
+2024-12-31 12:50:07,053 - INFO - Extracting features from URL: https://codeforces.com/blog/entry/70018?locale=en
+2024-12-31 12:50:11,059 - INFO - 127.0.0.1 - - [31/Dec/2024 12:50:11] "POST /analyze HTTP/1.1" 200 -
+2024-12-31 12:51:15,640 - INFO - Extracting features from URL: https://liuy-9a930.web.app/
+2024-12-31 12:51:19,181 - INFO - 127.0.0.1 - - [31/Dec/2024 12:51:19] "POST /analyze HTTP/1.1" 200 -
+2024-12-31 12:52:45,503 - INFO - Extracting features from URL: https://www.google.com/about/careers/applications/dashboard?src=Online%2FGoogle%20Website%2FByF
+2024-12-31 12:52:51,657 - INFO - 127.0.0.1 - - [31/Dec/2024 12:52:51] "POST /analyze HTTP/1.1" 200 -
+2024-12-31 12:53:14,901 - INFO - Extracting features from URL: https://the-trackr.com/uk-technology/
+2024-12-31 12:53:18,416 - INFO - 127.0.0.1 - - [31/Dec/2024 12:53:18] "POST /analyze HTTP/1.1" 200 -
+2024-12-31 12:54:17,004 - INFO - Extracting features from URL: https://www.amazon.com/
+2024-12-31 12:54:22,054 - INFO - 127.0.0.1 - - [31/Dec/2024 12:54:22] "POST /analyze HTTP/1.1" 200 -
